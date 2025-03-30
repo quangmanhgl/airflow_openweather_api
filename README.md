@@ -1,3 +1,4 @@
+### 1. **Architecture**
  ![Raw Data](README/Architecture.png)
 
 This project implements a data pipeline designed for processing and visualizing weather data. The pipeline includes the following steps:
@@ -6,7 +7,7 @@ This project implements a data pipeline designed for processing and visualizing 
 3. **Loading**: The processed data is stored in a PostgreSQL database.
 4. **Visualization**: The data is displayed through a Streamlit application.
 
-### 3. **Airflow**
+### 2. **Airflow**
 ![Raw Data]( README/airflow.png)
 
 ### 3. **Streamlit**
